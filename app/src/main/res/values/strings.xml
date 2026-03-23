@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mental Health</string>
+
+    <string name="nav_login">Sign in</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_tools">Therapy</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="login_title">Welcome back</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_sign_in">Sign in</string>
+    <string name="login_stub_note">Stub login: any email and password are accepted. A real backend will be added later.</string>
+
+    <string name="home_welcome">Welcome</string>
+    <string name="home_mood_count">Mood entries logged: %d</string>
+    <string name="home_log_mood">Log mood (quick)</string>
+
+    <string name="journal_heading">Journal</string>
+    <string name="journal_empty">No entries yet. Tap the New entry button to write something.</string>
+    <string name="journal_add_entry">New entry</string>
+    <string name="journal_delete_entry">Delete entry</string>
+    <string name="journal_dialog_title">New journal entry</string>
+    <string name="journal_dialog_save">Save</string>
+    <string name="journal_dialog_title_hint">Title (optional)</string>
+    <string name="journal_dialog_body_hint">What is on your mind?</string>
+    <string name="journal_error_body_required">Add some text for the entry.</string>
+
+    <string name="placeholder_journal">Journal, search, and filters will live here.</string>
+    <string name="placeholder_tools">CBT tools, breathing exercises, and resources will live here.</string>
+    <string name="placeholder_community">Community posts and events will live here.</string>
+
+    <string name="profile_title">Account</string>
+    <string name="profile_body">Profile and settings will expand here.</string>
+    <string name="profile_appearance">Appearance</string>
+    <string name="profile_theme_hint">Choose light, dark, or match the device setting.</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="profile_logout">Log out</string>
+</resources>
